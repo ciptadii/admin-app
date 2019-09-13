@@ -1,0 +1,44 @@
+.avatar {
+    margin-left: 10px;
+}
+
+.menu {
+    background-color: #282828;
+    color: white;
+}
+
+.items {
+    margin-left: 150px;
+}
+
+.submenu {
+    margin-right: 10px;
+}
+
+.home {
+    width: 1040px;
+    margin: auto;
+}
+
+.header {
+    padding-top: 40px;
+    padding-bottom: 15px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.pageheader {
+    display: inline-block;
+}
+
+.ant-page-header {
+    padding: 0;
+}
+
+.ant-page-header-heading {
+    height: 40px;
+}
+
+.archived-studios {
+    text-align: center;
+}

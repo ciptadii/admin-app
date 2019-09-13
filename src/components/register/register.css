@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    text-size-adjust: 15px;
+}
+
+.register-form-button {
+    width: 50%;
+}
+
+.link-login {
+    float: right;
+    padding-top: 20px;
+    padding-right: 50%;
+}

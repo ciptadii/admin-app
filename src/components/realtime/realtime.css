@@ -1,0 +1,31 @@
+.logo {
+    width: 165px;
+    height: 40px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+    display: flex;
+}
+
+.logo .game-tittle {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: .06px;
+    line-height: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.logo .studio-name {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #b0adab;
+    font-size: 12px;
+}
+
+.logo .content-container {
+    padding-left: 12px;
+    justify-content: space-around;
+}
